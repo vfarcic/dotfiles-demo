@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "starship@1.19.0": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#starship",
+      "source": "devbox-search",
+      "version": "1.19.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d4jzqp05jv60la1xipzs97vhmh0aqkg0-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d4jzqp05jv60la1xipzs97vhmh0aqkg0-starship-1.19.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3njsq9lzgm3dj7kh4csfdv73w8g6bzmf-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3njsq9lzgm3dj7kh4csfdv73w8g6bzmf-starship-1.19.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8af1bpcqgc9s0h7c6y2w9b87yww786z5-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8af1bpcqgc9s0h7c6y2w9b87yww786z5-starship-1.19.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5fyfyvp22k4nv3370mrjd6pwislskg56-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5fyfyvp22k4nv3370mrjd6pwislskg56-starship-1.19.0"
+        }
+      }
+    }
+  }
+}
